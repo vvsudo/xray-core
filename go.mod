@@ -14,7 +14,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.6.2
 	github.com/refraction-networking/utls v1.2.0
-	github.com/sagernet/sing v0.1.2
+	github.com/sagernet/sing v0.1.8
 	github.com/sagernet/sing-shadowsocks v0.1.0
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/stretchr/testify v1.8.1
@@ -24,7 +24,7 @@ require (
 	golang.org/x/crypto v0.5.0
 	golang.org/x/net v0.5.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.4.0
+	golang.org/x/sys v0.5.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
 	h12.io/socks v1.0.3
